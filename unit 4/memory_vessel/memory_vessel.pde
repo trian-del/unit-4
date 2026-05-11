@@ -1,3 +1,6 @@
+//tristan s
+//block 2-1
+
 ArrayList<petals> p=new ArrayList<petals>();
 float b,r,g,x,y;
 PImage img1;
