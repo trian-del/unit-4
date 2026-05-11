@@ -1,3 +1,6 @@
+//tristan s
+//block 2-1
+
 int i=0;
 float x,y;
 PImage img1,img2,img1n,img2n;
